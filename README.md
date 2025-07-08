@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Laurie — Junior Front-End Web Developer
 
-<!--
-**lauriedusablon/lauriedusablon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I recently graduated and am passionate about creating beautiful, responsive, and performant web applications.
 
-Here are some ideas to get you started:
+### 💻 Languages & Frameworks  
+- HTML5 📝  
+- CSS3 🎨 (Tailwind CSS & SASS)  
+- JavaScript
+- TypeScript
+- React 
+   
+### 📌 Check out one of my key projects (repo owned by Jeremie):  
+[Grodt - Collaborative Project](https://github.com/JeremieTavares/Grodt) 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Private repositories  
+I have contributed to multiple private repositories — code samples available upon request.
+
+🌱 Always eager to learn and grow in the front-end ecosystem!
+
+📫 Feel free to connect or request code samples!
