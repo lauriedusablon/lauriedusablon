@@ -3,8 +3,8 @@
 🎓 I recently graduated and am passionate about creating beautiful, responsive, and performant web applications.
 
 ### 💻 Languages & Frameworks  
-- HTML5 📝  
-- CSS3 🎨 (Tailwind CSS & SASS)  
+- HTML
+- CSS (Tailwind CSS & SASS)  
 - JavaScript
 - TypeScript
 - React
