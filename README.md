@@ -7,7 +7,9 @@
 - CSS3 🎨 (Tailwind CSS & SASS)  
 - JavaScript
 - TypeScript
-- React 
+- React
+
+🎨 I have a great interest in UX/UI design and strive to build user-friendly, intuitive interfaces.
    
 ### 📌 Check out one of my key projects (repo owned by Jeremie):  
 [Grodt - Collaborative Project](https://github.com/JeremieTavares/Grodt) 🚀
